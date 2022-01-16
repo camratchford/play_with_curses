@@ -13,7 +13,7 @@ Play with Curses adds a layer of abstraction above the Python Curses library, al
 ## Getting Started <a name = "getting_started"></a>
 1. Clone the repo.
 2. Populate the functions you want the menu items to execute within the [fucntion_map](https://github.com/camratchford/play_with_curses/blob/master/interface/interface.py#L20-L23)
-2. Build your menu by editing the contents of config.py, mapping your function to menu item.
+2. Build your menu by editing the contents of [config.py](https://github.com/camratchford/play_with_curses/blob/master/config.py#L3-L74), mapping your function to menu item.
 4. Execute main.py
 
 ### Prerequisites
